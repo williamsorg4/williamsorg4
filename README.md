@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a sophomore at The Ohio State University studying statistics with minors in mathematics and CIS. I am passionate about learning more about statistics as well as exploring their applications in sports. Currently, I am working on a model that improves Boston Marathon time predictions.
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
