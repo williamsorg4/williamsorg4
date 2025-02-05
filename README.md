@@ -18,3 +18,8 @@ I am a sophomore at The Ohio State University studying statistics with minors in
 
 ![williamsorg4's Stats](https://github-readme-stats.vercel.app/api?username=williamsorg4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## 🚀 About Me
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=r,ps,cpp,latex)](https://skillicons.dev)
