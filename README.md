@@ -24,4 +24,4 @@ I am a sophomore at The Ohio State University studying statistics with minors in
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=r,ps,cpp,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,cpp,latex)](https://skillicons.dev)
